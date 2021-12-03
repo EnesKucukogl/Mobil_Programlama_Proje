@@ -1,2 +1,0 @@
-# Mobil_Programlama_Proje
-Flutter_Test_Uygulaması
